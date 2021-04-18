@@ -1,7 +1,7 @@
 title: Movies Updater
 show_downloads: true
 github:
-  exe_url: http://example.com/download.zip
+  zip_url: http://example.com/download.zip
   another_url: another value
 google_analytics:
 theme: jekyll-theme-midnight
