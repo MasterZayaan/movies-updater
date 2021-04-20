@@ -2,6 +2,5 @@ title: Movies Updater
 show_downloads: true
 github:
   zip_url: https://github.com/MasterZayaan/movies-updater/raw/main/versions/movies-updater-all-versions.zip
-  exe_url: http://example.com/download.zip
 google_analytics:
 theme: jekyll-theme-hacker
